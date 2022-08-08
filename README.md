@@ -17,3 +17,6 @@ Later, when I was 15, I decided to enroll to ItStep Academy's Software Engineeri
   - Karting and racing
   - Formula 1
   - Middle-age history
+
+[motus3d]: https://github.com/daniilvinn/Motus-3D
+[motus]: https://github.com/daniilvinn/Motus
