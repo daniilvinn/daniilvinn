@@ -21,3 +21,4 @@ Later, when I was 15, I decided to enroll to ItStep Academy's Software Engineeri
 
 [motus3d]: https://github.com/daniilvinn/Motus-3D
 [motus]: https://github.com/daniilvinn/Motus
+[omniforce-engine]: https://github.com/daniilvinn/omniforce-engine
