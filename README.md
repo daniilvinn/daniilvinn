@@ -2,7 +2,7 @@
 
 ## My projects
   - [Omniforce][omniforce-engine]: Main project I'm currently working on. It was initially designed for 2D games, but now it has course on implementing full 3D workflow capable of running actual 3D games. It features high-performance 2D renderer, rigid body dynamics, C#       scripting using Mono, Editor, projects workflow, and Entity-Component System. Currently audio system, asset compression is under active development. New renderer, designed for 3D (and entire engine in general) is developed in omni2024 branch. It is planned to              implement rendergraph-driven renderer, which will utilize modern Vulkan features and techniques, such GPU driven rendering, GPU-generated particles, indirect drawing, GPU memory decompression and others.
-  - [Motus3D][motus3d]: it is game engine I'm working on and currently my main project. It uses Vulkan as its graphics API, targets on rendering 3D meshes with PBR           rendering, has Input system, logging, layer-based architecture and other techniques.
+  - [Motus3D][motus3d]: it is game engine I worked on. It uses Vulkan as its graphics API, targets on rendering 3D meshes with PBR           rendering, has Input system, logging, layer-based architecture and other techniques.
   - [Motus][motus]: it is lightweight version of [Motus3D][motus3d], which uses OpenGL as its graphics API and mainly targets to 2D rendering, integrated with ImGUI         framework for UI rendering, has Input system and 2D camera.
 
 ## About me
